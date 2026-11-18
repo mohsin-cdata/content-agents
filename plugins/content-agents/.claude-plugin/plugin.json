@@ -1,0 +1,9 @@
+{
+  "name": "content-agents",
+  "version": "0.1.0",
+  "description": "CData content agents. First agent: Exec Reviewer, which critiques content drafts the way CData's executive reviewers do, before an exec sees them.",
+  "author": {
+    "name": "CData Content Program"
+  },
+  "keywords": ["content-review", "brand-voice", "messaging", "connect-ai"]
+}

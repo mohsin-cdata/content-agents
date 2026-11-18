@@ -1,0 +1,15 @@
+{
+  "name": "cdata-content-agents",
+  "description": "CData content agents for Claude: exec-style content review, with link and fact checking to follow.",
+  "owner": {
+    "name": "CData Content Program"
+  },
+  "plugins": [
+    {
+      "name": "content-agents",
+      "source": "./plugins/content-agents",
+      "description": "Exec Reviewer and future content agents (link checker, fact checker).",
+      "version": "0.1.0"
+    }
+  ]
+}

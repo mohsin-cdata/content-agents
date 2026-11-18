@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "cai-agent-workspace": {
+      "type": "http",
+      "url": "https://mcp.cloud.cdata.com/mcp/workspace/ae1ec309-5dbd-4774-bee5-c656f4cd236e",
+      "headers": {
+        "Authorization": "Basic ${CDATA_CAI_BASIC_AUTH}"
+      }
+    }
+  }
+}

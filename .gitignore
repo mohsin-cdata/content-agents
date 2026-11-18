@@ -1,0 +1,8 @@
+.env
+*.env
+.claude/settings.local.json
+*sensitive*
+*Creds*
+node_modules/
+.DS_Store
+Thumbs.db
